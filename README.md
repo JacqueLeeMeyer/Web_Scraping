@@ -8,7 +8,7 @@ Module 11 Challenge
 
     Part 2: Scrape and Analyze Mars Weather Data (Table)
 
-Analysis:
+Part 2 - Analysis:
 
 1. How many months exist on Mars?
     12
