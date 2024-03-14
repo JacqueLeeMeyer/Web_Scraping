@@ -25,3 +25,5 @@ Part 2 - Analysis:
 5. About how many terrestrial (Earth) days exist in a Martian year? 
     My guess, by looking at the graph would be approximatly 700 days. (1200-500)
 
+
+No sources outside of previous class work were using to write this code
